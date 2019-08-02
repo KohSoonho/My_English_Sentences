@@ -23,8 +23,12 @@ server <- function(input, output) {
    
   # select random choice of setntences
   output$value <- renderText({
+    n <- length(sentences_list)
+    numbers <- sample(1:n, n)
     ifelse(input$action >= 1, 
-           sentences_list[[sample(1:length(sentences_list), 1)]], 
+           ifelse(input$action <= n, 
+                  sentences_list[[ numbers[[input$action]] ]], 
+                  "too many!"), 
            "Let's start!")
   })
   
