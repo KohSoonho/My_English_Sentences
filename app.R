@@ -21,10 +21,12 @@ ui <- fluidPage(
 # Define server logic required to show English sentences
 server <- function(input, output) {
    
+  # define n and numbers
+  n <- length(sentences_list)
+  numbers <- sample(1:n, n, replace = FALSE)
+  
   # select random choice of setntences
   output$value <- renderText({
-    n <- length(sentences_list)
-    numbers <- sample(1:n, n)
     ifelse(input$action >= 1, 
            ifelse(input$action <= n, 
                   sentences_list[[ numbers[[input$action]] ]], 
