@@ -25,7 +25,7 @@ The mice want to trick the cat into leaving his food.
 They plan a scheme to steal the food.
 I am very regretful for my mistakes.
 That result is very regretful for me.
-They planned a theme to trick me into signing the contract.
+They planned a scheme to trick me into signing the contract.
 She apologized and sounded genuinely regretful.
 He was tricked into buying the car.
 Dad chased the man into the garden.
@@ -57,8 +57,8 @@ Sometimes my mom checks up on me.
 The teacher check up on the student's progress.
 She signed him up for the class.
 He signed in online.
-Can you please sign me in? - Sure! I already signed you in.
-I can't find my buss pass. - That's OK, I'll let you ride anyway.
+"Can you please sign me in?" - "Sure! I already signed you in."
+"I can't find my buss pass." - "That's OK, I'll let you ride anyway."
 Anyway, can you send me those numbers so I can finish the report?
 Our problems are man-made; therefore, they can be solved by man.
 Adverbs can appear at different places in a sentence, in other words, they are movable.
@@ -77,8 +77,8 @@ I will help you with your homework.
 I will get the phone!
 I am going to study grammar more often.
 That is fine with me.
-I'm tired of school. - Yeah! Me, too. And I'm sick of homework.
-Vegetables are great for your health. - I agree. I'm ready for squash season.
+"I'm tired of school." - "Yeah! Me, too. And I'm sick of homework."
+"Vegetables are great for your health." - "I agree. I'm ready for squash season."
 I'm happy with our house in the country.
 I'm fine with living in the city.
 I wish Tom could come to the office tomorrow.
@@ -159,17 +159,17 @@ We already made plans to film.
 The business made a profit.
 She made it on time.
 He made an appointment.
-I can't believe I missed the meeting! - Well, I did tell you it started at 8 sharp.
-I failed my test. - Well, you would have gotten a better grade if you studied.
-Are you free on Friday? - Well, I'm supposed to have dinner with friends.
+"I can't believe I missed the meeting!" - "Well, I did tell you it started at 8 sharp."
+"I failed my test." - "Well, you would have gotten a better grade if you studied."
+"Are you free on Friday?" - "Well, I'm supposed to have dinner with friends."
 Well, it was nice running into you.
 Meg assured her sister that she looked good in her prom dress.
 I need to study to ensure I get a good grade.
 You need to insure your car before you can drive it.
 College admission expert say most US colleges and universities require letter of recommendation.
 Why did my husband volunteer for a suicide mission?
-I got this new scarf. - It's a little rough, though.
-My scarf is really nice - Yeah, it's costly though.
+"I got this new scarf." - "It's a little rough, though."
+"My scarf is really nice" - "Yeah, it's costly though."
 Saffron is a good alternative to opium production.
 I'll see you on the other side.
 Unfortunately, I have thrown away my receipt.
@@ -189,3 +189,1001 @@ I'm eager for the school year to end, so I can finally go on vacation.
 I'm anxious to see my grade. I didn't study a lot.
 The editor at Oxford Dictionary said there was a 400% increase in the use of the word youthquake in 2017.
 Have I ever let you down?
+I always eat ice cream.
+They always go to the movies on Friday.
+Black clothing was a symbol of solidarity for a new movement called Time's up.
+I've lost my way
+I'm a little scared of spiders.
+The party was pretty fun.
+I'm kind of tired.
+This is maybe the best food I have ever had.
+I dig it.
+This food is very good.
+This food is definitely delicious.
+At exactly three o'clock, I had some very good food.
+They want to participate in the Olympic Games.
+Cut it out!
+The cookies tastes good.
+The minister of culture and information said the decision marked a watershed moment.
+Can you just give him a break?
+Susan lent Bill $20.
+Susan borrowed her sister's jacket.
+The report said there are important benefits to turning unused land into sources of health food.
+I just lost my job, now you're going to dump me?
+I want break up with Sandy.
+I got an email from my professor.
+I got a new car.
+I got a coat from my sister.
+Could you get my coat?
+When will you get here?
+I got to work late.
+The weather is getting cold.
+I get excited when I get a good grade.
+The loss of innocent lives had let the government to condemn extreme Islamic terrorists that espouse violent.
+Talk about a blast from the past.
+These happy puppies are not your ordinary dogs.
+He told the extraordinary story of his escape.
+I just always act out on my birthday.
+Children who are bored or want attention may act out.
+I prefer tea over coffee.
+I prefer sitting next to a window.
+I would rather see a movie today.
+I would prefer to see a movie today.
+I would rather go to the party than read my book.
+I'd prefer to see a movie rather than go to a restaurant.
+This will be the single biggest expulsion for over 30 years.
+What kind of dinosaur they cooked up in that lab.
+He made great strides in his study of English.
+You can do anything. The sky's the limit.
+It's ridiculous to expect a two-years-old to be able to read!
+Sally was singing in the theater on Saturday.
+China's Ministry of Transport reports that the two-year bike sharing trend has put more 16 million bikes in China.
+We're gonna need to even the playing field.
+The meeting is supposed to start at noon.
+The game is supposed to run late.
+The nurse is supposed to use a thermometer.
+You're supposed to follow the manual.
+The children are supposed to put away their toys.
+Suzy is supposed to eat soup without slurping.
+She picked up the biggest jackpot ever on a single ticket, more than $758 million.
+Gear up guys!
+One of the doors is open.
+The player with the most correct answers wins.
+The books that are on the table are mine.
+The dogs that has floppy ears is the cutest.
+Rains from Hurricanes last summer caused unprecedented flooding.
+Some politicians fear that agreeing to the concession would set a dangerous precedent.
+At my age getting in shape is merely a waste of time.
+Either mom or dad will pick you up.
+Neither the blue nor the red dress is available.
+Neither Adam nor his friend cannot swim.
+He said the United Nations should focus more on people and less on bureaucracy.
+Come on, scaredy-cat!
+International Space Station photobombs 2017 solar eclipse.
+I don't wanna has to put the foot down.
+The dad put his foo down and send his daughter to her room.
+Why don't we go to the movies?
+Why don't you come over at eight?
+Why don't we meet for lunch?
+Shall we go to the movies?
+Shall we meet for lunch?
+Shall I open the window?
+Let's talk later.
+Let's travel to New York.
+Let's go dancing.
+There is absolutely no collusion.
+Yeah, well, animals get me.
+I often use the Internet when I want to search for information.
+I take online lessons twice a week, particularly during the weekends.
+The boy walked his dog.
+The refugees are arriving in Bangladesh in desperate conditions.
+A few little tricks up her sleeve.
+Maybe you, too, have a trick up your sleeve.
+We're striking for better pay and improved safety standards.
+There was no seat for me on the plane, because the airline had overbooked.
+If you want tickets you'll have to join the queue.
+It makes me mad when someone jump the queue.
+A thousand people were evacuated from their homes following the floods.
+He could at least have had the courtesy to say sorry.
+The accident was the inevitable.
+The boat's captain is missing, presumed dead.
+Every time I fly to the States, I get really bad jet lag.
+The old plane had great difficulty getting airborne.
+Our fellow travelers were mostly Spanish-speaking tourists.
+We might be experiencing some turbulence on this flight due to the approaching electrical storm.
+The era was characterized by political and cultural turbulence.
+John went home yesterday evening.
+John went home last week.
+John went home five years ago.
+One out every 6 early death in the world could be linked to disease from toxic air and water.
+You should not pick a fight with this person.
+The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.
+Successful applicants will be notified in writing.
+We have three new trainees in the accounting department.
+The job offers excellent promotion prospects.
+He's just been appointed as director of the publishing division.
+Productivity in the steal industry improved by five percent last year.
+Some states in the U.S. want to make college costs affordable.
+Don't jinx me, dude!
+They've got a fabulous house.
+Eight thousand people have been made redundant this year.
+The recession has led to many small business going bankrupt.
+Large supermarkets have high turnovers.
+The merger proved to be very lucrative for both companies.
+Some companies outsources to cheaper location to cut costs.
+You'll never get a good job if you don't have any qualifications.
+If you practice, you will become a pro.
+The ice cream tastes delicious.
+That idea sounds good.
+This jacket feel tight.
+You seem more relaxed.
+Those dishes look dirty.
+Shabby has empathy for the recent refugees.
+We're broke.
+He arrived at six o'clock precisely.
+He works very accurately.
+Maybe it will rain tomorrow.
+Maybe we should visit Anna later.
+I may be a little late for lunch.
+The students have a shared desire to maintain the personal connections.
+You seem a little off.
+He cut in the line.
+He is in his early 70s.
+He has gray hair and eyebrow.
+He has gone gray.
+He had goatee beard but his face is shaved up now.
+He started going gray in his 40s.
+I have decided to grow a beard. What do you think?
+People with fair complexions should use plenty of sunscreens.
+My dog is fluffy.
+This technology is so sophisticated we don't understand it.
+If we don't hold them accountable, who will?
+If the government wins, the Washington Post will cease to exist.
+Tim is happy, while Tom is sad.
+Mary likes living in the city, while Martha prefers the countryside.
+He loves to travel, whereas his wife prefer to stay at home.
+The study put the impact of violence on the world economy last year at $14.3 trillion.
+I need your help to take back the park.
+He used the money to found an internet business.
+Given his age, he's a remarkably fast runner.
+Please state why you wish to apply for this grant.
+Evidence suggests that errors may indeed be occurring.
+He yawned throughout the performance.
+The state of my father's health concerns us greatly.
+I've sent off applications for four different jobs.
+If there were as many women as men in the parliament, the situation would be very different.
+A healthy diet should supply all necessary vitamins and minerals.
+The army is reported to be encountering considerable resistance.
+The theater district in New York is in midtown Manhattan.
+What time is the next bus due.
+Apparently it's going to rain today.
+They granted her an entry visa.
+The issue of funding has yet to be addressed.
+She's fairly tall.
+She lays the blame for the recession fairly and squarely on the government.
+We must make an immediate response.
+Right groups say his arrest was part of Turkey's restriction on dissent.
+Someone will come along.
+The fact that something is cheap doesn't necessarily mean it's of low quality.
+Is there intelligent life elsewhere in the universe?
+You obviously didn't read the instructions properly.
+There's a religious assembly every morning.
+She will inherit her father's estate.
+We've signed a treaty with neighboring states to limit emissions of harmful gasses.
+Jamie hid the letter beneath a pile of papers.
+It's going to take several days for my car to be repaired - meanwhile I'm renting one.
+As part of their divorce settlement, Jeff agree to let polly keep the house.
+She purchased her first house with the money.
+It won't be easy, but we'll get across the river somehow.
+Have you read Steve's proposals for the new project?
+He hated being in the army because he had to obey commands.
+I assume you knew each other because you went to the same school.
+Apparently, John and Gabriel are willing for us to use their barbecue.
+The competition will be judged by a panel of experts.
+She has the reputation of being a good doctor.
+I go to class every other day.
+I saw George the other day.
+One after the other, the people boarded the train.
+We would write to each other every month.
+You wrote to one another every month.
+A researchers says it looks like it has a personality.
+They're looking for hand-outs, instead of using their hands for work.
+The accident left him severely disabled.
+My sister is always meddling in other people's affairs.
+He was altogether exhausted.
+He left the teaching profession in 1965 to start his own business.
+The group left with an ominous warning to never put girls in school again.
+The only way we stand a chance is if we work together.
+Before I went to work, I ate breakfast.
+We celebrated with friends after we finished our project.
+The cyber attack was described by expert as ransomware.
+Ms. Sherman, the thought of leaving my obituary to chance is completely unreasonable to me.
+The million people in the city live in abject poverty.
+I like all kinds of movies with the exception of horror movies.
+The piano and organ were tuned to the same pitch.
+After a night of fighting, the streets are now calm.
+I'm absolutely delighted that you can come.
+She started writing poetry at a young age.
+I reserve judgement on this issue until we have more information.
+I appreciate that this is a difficult decision for you.
+In the city, it is hard to rid a building permanently of pests.
+He has dedicated his life to scientific research.
+There's a suspicious - looking van parked at the end of the road.
+Police are concerned that mugging is on the increase.
+The police had been stalking the woman for a week before they arrested her.
+Do you have a bookstore in your neighborhood?
+A neighbor videotaped them in their own backyard.
+The temperatures of the pristine Arctic are warming at twice the rate of the rest of the world.
+To make sure that this one is a keeper.
+Do you play any other sports besides basketball?
+I have a question regarding your last statement.
+The train was so packed that I couldn't find a seat.
+He asked me to give him another loan, but I refused.
+"Hi" is informal way of greeting.
+She's very demanding child.
+The flesh of the fruit is white.
+Using a bunch of banana, the zoo-keeper persuaded the monkey back into its cage.
+We woke at dawn.
+It was generous of you to lend me the money.
+The photograph will affect people's perception of war.
+I need a new pair of trousers to go with jacket.
+In the space marked "occupation" she wrote "police officer".
+We talked about the new project.
+Can I talk to you?
+She speaks four languages.
+Professor Reid spoke about climate change.
+She didn't tell me her sister was in town.
+I told you about the movie plot.
+What did Sally said?
+Tom said Jimmy was sick.
+Angkor Was is the world's largest religious monument.
+But I'm getting ahead of myself.
+The Panama Canal provides a crucial shipping link between the Atlantic and Pacific oceans.
+He patted my head.
+Turn the tap off.
+The funeral will be held next Friday.
+I can't believe you dare to talk to me this way!
+She emerged from the sea, blue with cold.
+AIDS victims often experience social ostracism and discrimination.
+There were literally hundreds of pages to read in the contract.
+Her office is at the end of corridor.
+The girl stood gazing with pity at the lion in the cage.
+They found a bomb underneath the car.
+The game ended in triumph for the home team.
+The nursery has 30 babies on the books and 13 on the waiting list.
+A stone hit the windows and cracked the glass.
+There's a nasty smell in here.
+As the excitement mounted, the children become noisier.
+They set forth on their travels in early June.
+We had a splendid holiday.
+We were woken in the night by the wail of ambulance sirens.
+The whole office was in the state of disorder.
+Greg still insists that he did nothing wrong.
+She had already sold everything of value that she possessed.
+They're in despair about the money they've lost.
+She felt embarrassed about undressing in front of the doctor.
+One wall had shelves from floor to ceiling, crammed with books.
+The disease cause a loss of sensation in the fingers.
+They have been intrigued by the question of whether there is intelligent life in the universe.
+Would you mind turning off your music?
+Would you mind taking out the trash?
+Would you mind closing the door?
+Would you mind driving me to the airport?
+In a sport unfamiliar to many South Africans, he made a history.
+So, so great. Crushing it.
+We see her practically every day.
+John has been loyal worker in this company for almost 50 years.
+The road bends to the left after the traffic lights.
+I folded the letter in half and put it in an envelope.
+She was a bold and fearless climber.
+After all that hard work, you deserve a holiday.
+Of cause I was angry - I can't pretend otherwise.
+I owe my success to my education.
+The children behaved so badly that I lost my temper.
+I found it hard to keep my temper with so many things going wrong.
+We were warned to eat the fish which might upset our stomach.
+I assumed things had gone well for him because he had a big grin on his face.
+My brother is fond of pointing out my mistakes.
+Bob seems to have an instinct for knowing which products will sell.
+Mike used to travel a lot.
+He used to go to school in New York.
+Flour, sugar and eggs are used to make cake.
+Medicine is used to treat illness.
+I am used to living here.
+She is used to going to the gym in the morning.
+I just can't get used to getting up early.
+Eventually, you'll get used to the smells of the laboratory.
+The successful test launch, in the state of Florida, was a major achievement for Space X.
+Shouldn't we wait for backup?
+Can we go back to the question that Helena posed earlier?
+"Is that real fur on your collar?" - "Certainly not, I only wear fake fur."
+All authors read and approved the final version of the manuscript.
+Can you get the lid off this jar?
+It's rude not to say "Thank you" when you are given something.
+He read her letter aloud to the rest of the family.
+You can float very easily in the Dead Sea because it's so salty.
+She quickly became accustomed to his messy ways.
+I keep my socks in the bottom drawer.
+They begged for mercy.
+I didn't know anything about what happened, I swear it.
+He has been dismissed from his job for incompetence.
+The hardware department is in the basement.
+His denial of responsibility for the accident was unconvincing.
+A noisy flock of tourists came into the building.
+The birds hatched out the next afternoon.
+The parcel was wrapped in plain brown paper.
+Twitter is working to solve the problem of troll accounts.
+My head is pounding. Everything's coming apart.
+The parts are held together with glue.
+We usually stack some wood next to the fireplace.
+We spent the morning wandering around the old part of the city.
+There was a picture of the Trevi fountain on the front of the book.
+Your luggage must be weighed before it is put on the aircraft.
+Don't insult me just because I can't dance.
+They heard a dog barking outside.
+We have no quarrel with people of your country.
+The fog's so thick, I can't see farther than about ten meters.
+I spilled coffee on my silk shirt.
+In reply to their questions, she just shrugged.
+Anyhow, I didn't ask you to come here to talk about your business.
+Parents enjoy boasting about their children's achievements.
+I sucked my thumb until I was seven.
+Get a loaf of white bread from the corner store.
+After her trip to Venezuela, she felt inspired to learn Spanish.
+Would you like oil and vinegar on your salad?
+Their service are tailored to client's need.
+Gutenberg invented movable type in the 15th century.
+"I love you", she murmured.
+"Give us more time", they pleaded.
+He drowned in a boating accident.
+People in the street wept with joy when peace was announced.
+She gave the cat a saucer of milk.
+I don't want to talk about it anymore - let's drop the subject.
+I don't ignore her intentionally - I just didn't recognize her.
+His voice started to tremble, and I thought he was going to cry.
+He carved her name on a tree.
+You may store your valuables in the hotel safe while you are here.
+The child yelled out in pain.
+He told some fascinating tales about his life in India.
+We stood for a few moments, admiring the view.
+She exclaimed in delight upon hearing the news.
+Political satire can make us all relax and get along better.
+We got a fire burning in our bellies.
+The athlete was unsure of the extent of his injury.
+The provision of school lunches is the responsibility of each local authority.
+The actor felt his remark had been taken out of context.
+His radical comment about women was attacked by the conservative media.
+Cultural studies is an academic discipline popular among young scholars.
+The museum has an extensive collection of contemporary art.
+Many universities provide accommodation for new students.
+After the revolution, the country became a communist nation.
+The station could no longer cope with the increasing number of passengers.
+The U.N. Children's Agency, UNICEF, says the situation is catastrophic.
+Where do you see yourself in five years?
+The politician is critical of conventional methods of education.
+He achieved the task through a supreme effort of will.
+It is difficult to tell genuine pearls from fake ones.
+There is currently a labour dispute between workers and management.
+The scholar achieved outstanding academic success.
+The explorers opened the burial chamber inside the ancient temple.
+The opinion poll showed the government was losing popularity.
+She learned the principles of architecture in Paris.
+The team showed unity in a difficult situation.
+The company's salespeople are readily available to help their customers.
+The city hosts the headquarters of many hi-tech companies.
+There is no concrete evidence to prove the recession is over.
+The man took on the burden of looking after his parents.
+She bears a striking resemblance to her mother.
+The English town of Penkridge has wonderful medieval architecture.
+In addition to academic subjects, some high school curricula include basic life skills; for example, cooking, budgeting or woodwork.
+Bob always eats breakfast at 8 a.m.
+They often go to the theater.
+I rarely eat junk food.
+Is your friend usually so rude?
+Stir occasionally while the pasta is cooking.
+Before opening their books, the students take part in a mindfulness exercise.
+Then I can fit in. Let's roll!
+Most of the staff refused to work alongside the new team.
+Teachers complain that more of their time is taken up with administration than with teaching.
+He will have to confront some frightening truths about this issues.
+They awarded her a grand to study abroad for one year.
+The peace initiative was welcomed for both sides.
+The government has established a commission to investigate the problem of inner city violence.
+Economic recovery is already underway.
+The library is cracking down on people who lose their books.
+The Charter of the United Nations was signed in 1945.
+The discussion during the meeting was very intense.
+The newspaper urged both sides to take a rational approach to the problem.
+A hybrid vehicle use both petrol and electricity.
+There was a mutual understanding between the two countries.
+They faced a big problem, namely a shortage of funds.
+The government will increase the child allowance next year.
+The writer does the bulk of her writing work on weekends.
+The building construction started with driving a stake into the ground.
+Most of the trees shed their leaves in autumn.
+The manager and the workers agreed to a compromise.
+The staff felt that their boss was thoroughly reliable man.
+The new manager was reluctant to let any workers go.
+Is this David's house?
+Is that David's house?
+This is a fun party.
+That is a fun party.
+It kind of takes your breath away!
+The nation's anti-corruption czar says much of the crash has disappeared.
+There have been two nominations for the new job.
+My secretary will phone you to arrange meeting.
+All nominees for Treasure will be considered.
+He's a strong advocate of state ownership of the railways.
+It is possible to substitute margarine for butter in this recipe.
+The region's agricultural products are mainly grain and cattle.
+The lawyer undertook the extremely difficult case.
+The earthquake brought all trains to a halt.
+The company director resigned in order to preserve his firm's image.
+The woman's grandmother had sought her several home remedies for colds.
+Far from being disappointed, on the contrary, the man was delighted.
+The room was painted in a faint blue.
+Because of the storm, there was scarcely anyone outside.
+The slope of the mountain was very steep.
+The board of directors decided to implement a new investment plan.
+International cooperation is necessary to combat terrorism.
+They knew they would lose the football game.
+It's only a loose translation of the poem.
+A pearl neckless complements a nice dress.
+I must compliment you on your handling of a very difficult situation.
+Please keep the two parrots apart.
+The new parrot became a part of the family.
+This is incredible. He's making a run for it.
+"You got this?, Think faster!" - "Yeah, I got this."
+Gorillas look fierce, but in fact they are gentle and shy creatures.
+The factory began to discharge dangerous chemicals into the air.
+The hospital will stay open regardless of the typhoon.
+The article seemed to imply that the politician would resign.
+The musician displayed her fine trumpet, made of brass.
+The water at this end of the pool is shallow.
+The entrepreneur worked hard to make her business profitable.
+The Louvre Museum has many famous sculptures.
+The summer breeze felt cool against his face.
+The recently sacked worker accused his ex-boss of racial prejudice.
+The children scattered marbles all over the floor.
+The final game score would quality her for the Olympics.
+People seek brea, work, freedom and human dignity.
+The vote sets up a path for president Xi Jinping to rule indefinitely.
+You will soon pay for what you did to me.
+The fishing vessels were swept away by the large storm.
+The pavement was in need of repair.
+The thick book fell off the table with a bang.
+The pursuit of happiness is one of the fundamental human rights.
+The ship will be in dock for repairs.
+Hundreds of flight were cancelled due to volcanic ash.
+The yearly budget should be submitted to the management today.
+The company was swift in responding to customer complains.
+The chairwoman's presentation convinced even the most skeptical investors.
+The little girl poured water into the basin.
+The army captain ordered a general retreat.
+The article highlights the latest trends in social media.
+The manager is seemingly healthy but his secretary worries bout him.
+The previous proposal was refused and the new one was likewise refused.
+The old man had a fishing hut in the forest.
+The boy had led a life of vice until he met he man.
+The artist turned the lump of clay into a beautiful vase.
+The university's academic rating was extremely high.
+Stop slurping your soup!
+I suggest that you wait the soup has chilled.
+It is important that she read the book.
+The underground project to connect Heathrow Airport to the financial district has uncovered more than 10,000 artifacts.
+You can pick up where he left off.
+The manager asked his secretary to convey his apologies to the client.
+The prime minister led a renaissance of his country's economic influence.
+The teacher prepared the apparatus required for the experiment.
+Mt.Everest is a destination for climbers from around the world.
+There are several kinds of birds that nest is hollow trees.
+Cedar wood is highly resistant to decay.
+The government is desperately trying to stimulate the economy.
+The villagers were opposed to the development of the woodland.
+After moving house the boy found it hard to adapt to his new school.
+The machine was designed to fold paper and cut it.
+The fresh milk was brought to the dairy.
+The flowers gave off a heavy scent at night.
+The staff is ready for the presentation.
+The Netherlands is known for tulips.
+President Donald Trump fired James Coney as head of the Federal Bureau of Investigation.
+We've got to go undercover.
+People were surprised by the mighty power of the tornado.
+At last, the fist glow of dawn could be seen.
+The biggest market for ivory is the Far East.
+The aquarium devoted itself to protecting rare fish.
+The company's products were considered cheap but inferior.
+The absence of funds stalled the project.
+The student's supervisor prompted him to publish his research.
+In the heat, the painted surface became sticky.
+The movie contained graphic scenes of violence.
+The famous scientist was humble about his achievements.
+The organisms were discovered living in the ice.
+An assistant was employed to relieve the employee's work burden.
+A heap of old junk lay in the garden.
+Essential metals are already scare in some countries.
+For a moment his comment left her dumb with surprise.
+The metal sheets were held together with bolts.
+Whatever you think of my friends, their wedding was lovely.
+There's the red, blue and green dress. Whichever you choose, I'm sure it will look great!
+Some of the fake news said, "I don't think Donald Trump wants to build the wall".
+They can use it however they see fit, no matter what its cost.
+Please feel free to modify it as you see fit.
+The church organized a demonstration against the government.
+The artist dipped his brush in the paint.
+The upward movement of the lift was very slow.
+The village was surrounded by a great area of wilderness.
+A thick layer of foam lay on the water.
+Herds of bison roamed the plains.
+Several ancient civilizations flourished along the river in the area.
+The computer was apt to break down from time to time.
+The book described the deeds of great warriors.
+The prescription of antibiotics is not recommended in this case.
+Famines are caused by many different factors.
+Winters were usually wet and gloomy in the region.
+She made a reservation at a local restaurant.
+The calf was produced by cloning a cell.
+A lightning conductor was placed on the steeple.
+The textbook was too difficult for undergraduates.
+The tomb of the local lords lay in the church.
+The waters of the river were dark and muddy.
+It comes down to whether or not you love me.
+What it comes down to it, he is nothing but a silly boy.
+You hook them up. Then, you turn it on. Then you log in.
+Click on an icon or to run a program.
+There was euphoria in Russia after Donald Trump won the U.S. presidential election.
+I have a way that we can make some serious money. But it's shady.
+Maybe we'll be luckier tomorrow. Don't worry. Carpe diem.
+The new government decided to regulate gambling.
+The textbook described the army's heroic acts.
+The official seized the boy by the collar.
+Being stung by a bee can be dangerous.
+The politician's absence sparked off rumors that he had resigned.
+The rats rapidly multiplied and spread.
+A committee of physicians drew up the ethical guidelines.
+The chemical was mainly used to kill weeds.
+As the suburbs grew, the center of town became emptier.
+The trains rarely departed on time.
+The wounded soldier crawled to safety.
+So far attempts to clone humans have been in vain.
+You should talk more about modals.
+You ought to know that certain modals are difficult for English learners to understand.
+Unless you want to lose a grammar fan, you had better start teaching more about modals.
+You had better run, the plane is about to leave!
+Officials say if the planned work goes ahead, the place will not need another renovation until 2067.
+Yeah, well times flies when you're having fun!
+During his tenure as dean, he had a real influence on the students.
+A desire for peace underlay the president's foreign policy.
+A thermometer was fastened to the side of the tank.
+The increasing acidification of the soil led to the problem.
+His job was demanding, but he was paid accordingly.
+Frogs prefer to live in damp environment.
+The mayor fulfilled his promise to build a gymnasium.
+The researchers went on an expedition to the judge of Africa.
+Space is not a perfect vacuum.
+Everyone felt admiration at his wonderful novel.
+The refugees attempted to flee from the war zone.
+Ethnic conflicts were common in the country at one time.
+The country was known for its harsh law.
+The meeting began with a few remarks from the chairman.
+The immense cost of the new town hall was criticized by the public.
+The seal on the document was fake.
+The murder was committed by a policeman.
+It's a pain in the neck but I have to do it.
+Coding is a universal language. Coding is the language of solving problems.
+There's something fishy going on with those three.
+The problem was compounded by the scientist's lies.
+He worked part-time as a maths tutor.
+Although gambling is technically illegal, it is common in some countries.
+The company decided to recruit an interpreter.
+The engineers tried to locate the source of the problem.
+A tax increase was imposed on tobacco products.
+The jet left a trail of vapor across the sky.
+I put my seat in an upright position.
+The two countries reached an accord over the frontiers.
+Every article was reviewed by peers in the field.
+The archaeological team exhibited its finds.
+The nurse accidentally snapped the thermometer.
+A mission was sent to establish diplomatic relations.
+The guest's preference was for French food.
+His virtue as a scholar was his accuracy.
+I went out of my way to be kind to her.
+I may go to the concert.
+She said she might go to the concert.
+He sent her flowers. It must be love.
+The result of this experiment has encourage other farmers to try similar projects.
+You can't turn back the clock, kid.
+I dropped by an ATM to withdraw some money.
+It took an hour for the worker to drain all the water from the tank.
+The criminals were ordered to surrender their weapons.
+Certain creatures such as rats arouse disgust in humans.
+He felt the strain of living in an alien culture.
+People start receiving pensions at age 60 in the country.
+The government introduced several measures to increase tax revenue.
+The man's work at the homeless shelter was voluntary.
+The customer made an inquiry concerning the company policy.
+Regime change is not acceptable as a reason for war.
+A full explanation of the problem is beyond the scope of this paper.
+The company is planning to increase its sales personnel by 15%.
+The volunteers were aged 35 and 40 respectively.
+You make me feel small.
+My house is the largest one on our street.
+This is the smallest car I've ever seen.
+My friend is the silliest of everyone I know.
+The group Amnesty International says the burgeoning demand is causing labor rights abuses on many plantations.
+We're really going to be able to jack up our price if we're two-times galaxy savers!
+It is the taxpayer's duty to declare their earnings.
+The brothers of a king are traditionally made dukes.
+From the doctor's perspective, it was time to operate.
+It was the most expensive residential area in the town.
+A medical certificate is necessary for a medical leave.
+The price of corn has gone up considerably.
+The salesperson made a deliberately law estimate to get the business.
+Inspectors were sent in to assess the financial status of the company.
+The president stayed in the city's premier hotel.
+The finance minister promised to control the government's deficit.
+Food security is high on the agenda of many government.
+There was no indication that the vice president would quit the company.
+All participants must show valid identification before entering the conference room.
+The stock market hosts millions of transactions each day.
+The factory is liable for any injuries that occur there.
+The trial attracted wide media coverage at the time.
+The lease on the building was for 10 years.
+The machine burns rubbish and in the process produces electricity.
+We need to go back to the drawing board and consider why we have this outcome.
+The Startblok project wants to be an example of integration.
+I think your niece may be gifted!
+The fleet of Spanish ships neared the English coast.
+The folk costume was made of a very colorful fabric.
+I reckon that the situation will improve in the near future.
+A large vocabulary is a great asset for every student.
+People can achieve many things through sheer hard work.
+The new project has the backing of several board members.
+Many elderly people prefer home care to institutional care.
+There has been much controversy over immigration policies recently.
+It rained for five successive days during the festival.
+The exhibition's aim was to foster the understanding of modern sculpture.
+The statesman failed to realize his grand conception.
+The politicians held a forum on international relations.
+The young couple bought a small terrace house in a fashionable area.
+Those living in poverty cannot even afford decent housing.
+Researchers have already released some preliminary results of the study.
+The distribution company was a subsidiary of a trading company.
+I'm overwhelmed by her. Not her beauty, but her soul.
+Mark only likes to watch action movies (e.g., Die Hard, James Bond, the Terminator series).
+Our pet, Sammy, i.e, the Beagle we adopted two years ago, needs to be groomed every day.
+The computers of Hillary Clinton's campaign manager were hacked and their documents released.
+It's time for a practice run.
+He couldn't walk far without getting short of breath.
+John has put on a lot of weight.
+Even when he was a child, he was very stubborn.
+I should stop eating high-calorie food. My belly has become so fat.
+Have you weighed yourself lately?
+The gold dealer was suspected of mass fraud.
+The British Queen is also Head of the Commonwealth of Nations.
+The press conference was broadcast simultaneously by four TV stations.
+English is a compulsory subject in many countries.
+Students can only carry out experiments under the supervision of a teacher.
+The dean decided to retire prior to the next election.
+Figs are rich in fiber, vitamins and minerals.
+Train companies often have monopolies over their routes.
+The professor is very accessible and open-minded.
+It is difficult for animals to survive in such a hostile environment.
+Meat-eating plants catch their prey in four ways.
+Please specify the dimension of the rectangle.
+All the student felt nervous about their forthcoming examinations.
+The novel had an elaborate plot concerning an attempted murder.
+Penguins are awkward on land but elegant in water.
+The businessman's son only inherited a fraction of his father's estate.
+The company is debating whether restructuring would be worthwhile.
+Losing one's job can be a huge source of distress.
+The small village still performs many traditional rituals.
+The festival lasted for an entire fortnight.
+"Earth to Kelly. Earth to Kelly" - "Oh, sorry. I was just daydreaming."
+Tim's dog is cuter than Jim's dog.
+This painting is more beautiful than the other painting!
+We will cooperate where we can, but we will be ready to confront where we must.
+"I've been waiting for this. We've got a tank." - "Let's roll!"
+The employee acknowledged her mistake and apologized.
+You can enhance your chances of success by being prepared.
+The new theory had profound implications for human biology.
+The teacher was very rigid in his interpretation of the rule.
+In science a proposition is just a theory until proven.
+Faced with defeat, the army prayed for divine intervention.
+We took the ferry to the Isle of Man.
+Always be polite, and do not use crude language.
+Universities try to attract prospective students by using social media.
+The attorney raised an abjection in court.
+The goods were transported from German to Italy by lorry.
+We tend to judge phenomena by standards inherent to our own culture.
+The hikers walked carefully along the mountain ridge.
+The career officer counsels students on how to find work.
+Brand continuity is important for any business.
+The new manager of the sales team is highly competent.
+The city's persistent efforts to host to Olympics finally paid off.
+Some birds use sticks to probe the ground for insects.
+The company was accused of exploiting immigrant workers.
+Both orthodox and new methods of teaching should be used.
+Her speech was so inspiring, it affected the audience.
+There was a lot of interest in the fully electric and hybrid electric cars.
+But someday a hero will set things right.
+What is the reason for you answer to the prior question?
+Promotion can be an incentive to harder work.
+The reporters were frustrated by the politician's obscure answers.
+That's great. I knew you could it.
+Merman-Webster says web searchers for surreal rose after several world events and tragedies in 2016.
+Have you seen that girl who has been fishing around in our trash?
+The two actors have had an intimate friendship for years.
+Obviously what she did was wrong, but I don't think it warranted such a severe punishment.
+The police showed the suspect the arrest warrant.
+The motorway can get extremely crowded in the holiday season.
+As the children left the building, a blast of icy air hit them.
+Public telephones are of little utility today.
+The travelers took a ferry from the mainland to the island.
+The scholar became famous in the realm of art history.
+The offshore oil platform explosion was an environmental disaster.
+The sculptor moulded wax into the form of a bird.
+The company secured a patent for its vacuum cleaner design.
+This literary award carries great prestige.
+The Portuguese reached the Cope of Good Hope in 1488.
+Thousands of crabs walked sideways along the beach.
+You need a big ego to be a successful politician.
+Talking loudly on a mobile phone can be a real nuisance.
+The suspect was rigorous in her denial of the charges.
+It's absurd to learn swimming from someone who can't swim.
+Young children are sometimes unable to control their bodily functions.
+Personal computers and flat-screen TVs are mere commodities nowadays.
+The Internet has been instrumental in creating a global community.
+The lone opponent of the proposal was ignored by the others.
+This is the fifth consecutive weekend that I've spent working.
+Documentaries are often narrated by well-known actors.
+I've just had a tough day and I'm feeling out of sorts.
+There were many rare fossils on display in the exhibition.
+The large house had two separate staircases.
+He suspected his enemy of starting the vicious rumor.
+The fallen tree was covered with moss and mushrooms.
+Many people come to big cities in quest of employment.
+There was a noticeable improvement in team performance.
+There is ample time to recruit new staff.
+The bakery is famous for its crisp and delicious pastries.
+M16 in the UK corresponds to the CIA in the U.S.
+Nobody was able to anticipate the recent world economic collapse.
+The highest ranking member of English nobility is the monarch.
+He began the proceeding with a brief speech.
+Success is often attributed to both luck and genes.
+Transparent containers allow you to see what is inside.
+The company dumped chemical waste in the river.
+The park contained a pleasant grove of elm trees.
+His endeavors to enter the university were in vain.
+The expedition suffered many hardships in the jungle.
+The chemical releases a powerful odor.
+I had her cut my hair.
+I had him fix my computer.
+I got my mom to babysit.
+I got my boss to give me a promotion.
+This year's nominees are more diverse than in recent years.
+We're really got our work cut out for us.
+He is full of himself, but he is also a genius.
+How many people are coming over for dinner?
+How much food do we need for tonight's dinner?
+He brought some furniture for the house.
+Most Americans speak English.
+I have plenty of food at home.
+All children are special.
+Do you have any juice?
+These needles ease the chronic pain David Ramsey feels in his back and legs.
+What acupuncture does for me is decrease that level of pain.
+Tonight, we're talking game tonight up a notch.
+The dean wrote his speech beforehand.
+The staff worked overtime the whole week.
+The student's essay was covered with corrections.
+They should be inspected regularly for wear.
+He stuck the lever under the car to raise it.
+Lack of evidence is the greatest obstacle to historical research.
+The coarse surface of the rock allowed plants to grow.
+The zoo's staff was relieved when the pandas began to reproduce.
+The peasants squashed the grape with their feet for making wine.
+The shop was in a small alley.
+The fields provided pasture for the local cattle.
+The factory was on the outskirts of the town.
+The region has an abundant supply of high-quality wood.
+The land is naturally fertile.
+The problem was how to dispose of the spent uranium.
+The explorer used a compass to find his way.
+The ingredients of the new drug were top secret.
+The man erected a large tent in the field.
+The scientist devised an experiment to test his theory.
+There was an air of boredom in the class.
+Frequent wars and plagues devastated the country.
+Reckless driving can cause accidents.
+The captain managed to steer the boat to safety.
+The archeologist discovered the remains of primitive dwellings.
+The value of the shares plunged on the news.
+The publisher initiated a series of books on linguistics.
+A banner was put up to welcome the athletes home.
+The club members wore the same striped tie.
+The patient was examined by three psychologists.
+Somehow the tourists had strayed into a secret military camp.
+The man let out a curse of anger.
+Children have a natural inclination to be inquisitive.
+The researcher measured how high the ball bounced.
+The librarian frowned at the noisy children.
+The agricultural museum contained many old ploughs.
+The author regarded the review as a compliment.
+Newspapers condemned the government's action.
+A multitude of people gathered to watch the eclipse.
+The temple could be dated by the shape of the pillars.
+Darwin's theory of evolution eventually prevailed.
+Some errors diminished the value of the textbook.
+President Trump signed executive orders.
+Jason, it's not a piece of cake!
+Why don't I take you to the station?
+I couldn't care less if I get a bad grade.
+It's very practical for the students.
+California Highway Patrol think they have some crooked cops.
+He tucked his shirt into his trousers.
+The biologists attained their goal of cloning a sheep.
+The snow made the roads slippery.
+The physicist conceived his theory on holiday.
+The man spat on the ground.
+Many rose bushes have sharp thorns.
+The airline announced it will commence international flights next year.
+A more efficient light bulb came on the market.
+The two scientists coordinated their research.
+As the days passed, the patient became more feeble.
+The passenger asked for a seat by the aisle.
+The new worker quickly won his colleague's esteem.
+Some plants only become vines under certain conditions.
+The equipment was protected by a waterproof surface.
+The hotel was located in an agreeable spot.
+In the older days there were 12 pennies in a shilling.
+The huge tree swayed in the wind.
+The editor's job was to revise the book.
+The baby was fast asleep in her cradle.
+A ghost was said to haunt the castle.
+The theory was based on a false premise.
+The doctor gave him some tablets for his stomach.
+The book's arguments were difficult to comprehend.
+I scraped the gum off the bottom of my shoe.
+The psychologist made a study of bilingual children.
+The violent youth was deprived of love as a child.
+The chemist measured out an ounce of powder.
+Fine had inflicted great damage on the building.
+The ripe crops were damaged by the hail.
+Bees were humming around the flowers.
+The farmer sowed the seeds across the field.
+The images were transmitted by satellite.
+Every morning, he ground coffee for his breakfast.
+The poet was a quiet, reflective woman.
+His remark was intended to signify his disgust.
+The lecture said he would confine himself to one topic.
+The swamp was home to many rare creatures.
+He left out a groan of pain.
+He took the pills as a precaution against airsickness.
+A puff of smoke appeared from the chimney.
+In graduate school, he had specialized in botany.
+An owl flew down and perched on a branch.
+The bird had a bright yellow beak.
+Habitual TV watchers tend to do less well in school exams.
+I have a little money. Let's have some ice cream.
+I have little money. I should stay home.
+I have no clue what I want to do with my life.
+Pakistani Ahmadiyyas have been persecuted for decades.
+I'm really freaking out, you guys!
+I know your heart is broken, but time is a great healer.
+The political situation in the region has deteriorated rapidly.
+My dear Belle, you're so ahead of your time.
+The climber described the perils he had faced.
+The local people traditional tools to cultivate the land.
+I was tempted to buy a bag in the sale.
+Ancient Greeks believed that their gods were immortal.
+He researched the methods used by traditional craftsmen.
+As they walked onward, it began to grow dark.
+After its initial success, the company prospered and grew.
+The principal was a descendant of the school's founder.
+The politician was convicted of stealing public money.
+The older boys teased him about his accent.
+Opponents of the plan exaggerated its expense.
+The corrupt factory owner tried to bribe the local officials.
+The machine gave a jerk when he turned it on.
+Squirrels are common in London's park.
+The rocket soared into the sky.
+The dictator compelled the scientists to work for him.
+The group of writers proclaimed their opposition to censorship.
+Secretly the younger researcher despised his colleagues.
+A knee injury hastened his retirement from football.
+Lions and tigers are carnivores. Cows and sheep are herbivores.
+In biology classes, we used to dissect rats.
+I'm glad to see that everybody is bright-eyed and busy-tailed this morning.
+Up until now there was a lot of speculation but I see this as now, a big relief for me.
+Power nap! Uh, you were saying...
+It began with the forging of the great rings.
+The company deceived customers by selling old computers as new ones.
+Seaweed serves the function of keeping seawater clean.
+The carver's workmanship became famous.
+The old man stumbled and fell.
+The two islands were divided by a narrow strait.
+The factory was used to refine sugar.
+The explorer perished in the Arctic.
+As a full-time professor, he was entitled to research funds.
+The tortoise had adapted quickly to the new environment.
+Farming such hilly land was very difficult.
+He owned his success to his industrious character.
+The wheel began to whirl more and more quickly.
+The results of the experiment staggered the scientists.
+Small mistakes about dates irritated the historian intensely.
+The watermill continually revolved.
+The bomb blast shattered every window.
+The dirty water infected a number of swimmers.
+A sudden noise startled the spectators.
+The archeologist condensed his findings into one article.
+The lead runner began to pant heavily.
+From the train he could already see the skyscrapers.
+The accounting course is orientated towards beginners.
+Everyone was astonished by the president's sudden resignation.
+Against my better judgement, I told her the truth.
+Some visitors find candy that makes them feel nostalgic.
+Yeah, sometimes I feel like I'm from a different planet, too.
+The filename is a series of concatenated words with no spaces.
+The space station is made up of modules that were assembled in space.
+The hiker checked his bearing on the compass.
+The patient will be especially vulnerable to infection after surgery.
+The timber was piled up inside the shed.
+We had to revise the contract to make several things more explicit.
+Hopefully, it will stop raining this afternoon.
+In 1862 President Abraham Lincoln announced the liberation of slaves.
+The graph shows that the number of foreign students increased substantially.
+Some people pay a premium to buy "green" products.
+The election created a stable equilibrium between the political parties.
+The school's new computer room was not yet operational.
+A driving license is a legitimate form of identification.
+The section head invariably comes late to meeting.
+The hotel offered a discount to people with a disability.
+The mayor was known to be a man of integrity.
+Many companies struggle to comply with the new tax regulations.
+Law enforcement agencies arrested a key drug cartel member yesterday.
+The budget cuts had implications for all universities.
+The student finally completed his graduation thesis.
+The emergence of the Internet has changed the music industry.
+The explosion shattered nearby windows and wrecked two cars.
+Don't worry, I've got your back.
+Strong human resources were integral to the company's success.
+Amazingly, the house remained intact after the storm passed.
+The online bank demanded extra documentation from customers. 
+Closer scrutiny revealed differences between the two signatures.
+Demand has remained static for the past several months.
+In this process precision is far more important than speed.
+The project was not compatible with the philosophy of the company.
+There was a vast array of products on display.
+The construction company planted trees to offset carbon emissions.
+The author has been writing a serial novel for the magazine.
+They were unable to incorporate all the workers into the new team.
+The old doctor was the only general practitioner in the village.
+A nation has a sovereign right to protest its borders.
+The professor's argument was very coherent and easy to understand.
+The arbitrary decision-making of management angered the workers.
+The investor faced the dilemma of whether or not to buy that stock.
+Climbing Mt. Everest is a formidable challenge.
+The musician explained his philosophy with utmost clarity.
+The company president hit the table in a fury.
+The rock group dressed in a weird way to attract attention.
+The legacy of Adam Smith continues to this day.
+The biologist collected many animal specimens.
+Incidentally, could you meet me for tea tomorrow?
+Examines need to make a quick, spontaneous response.
+She seemed so surprised by the news that it must have come out of a clear blue sky.
+He is the quiet type but speaks up about things that are important to him.
+They should be here.
+I think you should wear the red dress.
+You look tired, you should get more sleep.
+Developed country parties shall continue taking the lead by undertaking economy-wide absolute emission reduction targets.
+The World Bank says stronger efforts to ease inequality are important to reducing extreme poverty around the globe.
+We've had a lot of wonderful trips in this old rust bucket.
+The chemicals can be poisonous if ingested.
+He spat out an insult and marched out of the room.
+"Hey Tom, what's with your face?"
+The young American was a Peace Corps volunteer teaching English in Vietnam.
+We have never experienced such a disastrous tornado before.
+The Internet has facilitated the establishment of international networks.
+The school committee enforced the new rules.
+Several ducks could be heard quacking on the marsh.
