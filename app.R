@@ -14,7 +14,15 @@ ui <- fluidPage(
    
    hr(), 
    
-   mainPanel(verbatimTextOutput("value"))
+   mainPanel(verbatimTextOutput("value")), 
+   
+   br(), 
+   
+   mainPanel(a("Cambridge Dictionary", 
+               href = "https://dictionary.cambridge.org")), 
+   
+   mainPanel(a("Google", 
+               href = "https://www.google.co.jp"))
    
    )
 

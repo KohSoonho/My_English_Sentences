@@ -893,7 +893,7 @@ Faced with defeat, the army prayed for divine intervention.
 We took the ferry to the Isle of Man.
 Always be polite, and do not use crude language.
 Universities try to attract prospective students by using social media.
-The attorney raised an abjection in court.
+The attorney raised an objection in court.
 The goods were transported from German to Italy by lorry.
 We tend to judge phenomena by standards inherent to our own culture.
 The hikers walked carefully along the mountain ridge.
@@ -973,7 +973,7 @@ All children are special.
 Do you have any juice?
 These needles ease the chronic pain David Ramsey feels in his back and legs.
 What acupuncture does for me is decrease that level of pain.
-Tonight, we're talking game tonight up a notch.
+Tonight, we're taking game tonight up a notch.
 The dean wrote his speech beforehand.
 The staff worked overtime the whole week.
 The student's essay was covered with corrections.
@@ -1048,7 +1048,7 @@ I scraped the gum off the bottom of my shoe.
 The psychologist made a study of bilingual children.
 The violent youth was deprived of love as a child.
 The chemist measured out an ounce of powder.
-Fine had inflicted great damage on the building.
+Fire had inflicted great damage on the building.
 The ripe crops were damaged by the hail.
 Bees were humming around the flowers.
 The farmer sowed the seeds across the field.
@@ -1314,7 +1314,7 @@ They are hosting a free webinar on how to survive and thrive in this economy.
 I have to work to keep my head above water.
 I understand your point, but that would be going too far.
 I'm thinking of taking up tai chi.
-Japan drew 1-1 with Korea win the semi-finals.
+Japan drew 1-1 with Korea in the semi-finals.
 He is a hard-headed old man.
 We need to take a more hard-headed approach to these problems.
 After three failed election attempts, the candidate conceded defeat.
@@ -1802,3 +1802,303 @@ Her family all live in close proximity to each other.
 The local football team is poised to win the championship.
 All medicines are subjected to rigorous tests before approval.
 Not everyone is wired for what you're about to do.
+Asthma causes many people to have severe breathing difficulties.
+The Cayman Island is a well-known offshore tax haven.
+The failure provided the impetus for a new approach.
+The circle has a radius of 15 centimeters.
+Language is intrinsic to human beings.
+The players swapped their uniforms with their opponents.
+The union members gradually became more militant.
+Freedom of information is sometimes incompatible with the right to privacy.
+You need something done, he's on it.
+Way to hustle, bud. I love ya! I owe ya!
+Apple and other tech companies want strong encryption to protect their customers.
+"Cool?" - "No, it's not cool."
+I feel comfortable with you.
+The rule mandates that test takers present a valid passport.
+Dark matters is the most elusive substance of all.
+The brain interprets sensory information to perceive reality.
+The company created a glossy brochure for publicity purpose.
+Many countries have banned corporal punishment in schools.
+Cheddar is a generic term for a number of cheeses.
+Many people were surprised by his outrageous behavior.
+This football team has legions of supporters.
+Freedom of speech is of paramount importance in the country.
+The terrain of Hokkaido is more hilly than mountainous.
+The project was dissolved without producing any tangible results.
+The judge issued a definitive ruling on the case.
+It is imperative that all workers refrain from smoking here.
+Many cave paintings are decorated with strange geometric shapes.
+The construction of the highway is underway.
+This is a witch hunt like nobody's ever seen before.
+I've lost direction, I think...
+This is not a good solution. It might be OK for them.
+I will betcha you don't have a warrant to get in.
+Darn it. It's a bummer.
+I would never impede your pretend investigation.
+Now, since you're sans warrant, I guess we're... done?
+The thing is, you don't need a warrant if you have probable cause.
+There's a couple of shifty-looking people standing on the street corner.
+There are plenty of lowlifes out there, ready to take advantage of unsuspecting senior citizens.
+She patted the dog's velvety ears.
+Oh, sweet cheese and crackers.
+People were sent out to snoop on rival business.
+I will take your kindness and pay it forward.
+She ripped up his letters and burned the pieces.
+He scared my driver half to death and disappeared into the night.
+The machine suffered from periodic breakdowns.
+The sculpture had been carved from a block of granite.
+The opera singer has a large repertoire of songs.
+The temporal lobe is one of the brain's four lobes.
+A temporary bridge was rigged up across the river.
+Previous election in the country have been rigged by the ruling party.
+The government's radical policies brought about a paradigm shift.
+The stormy weather did not deter us from going out.
+The police were accused of manipulating the witness.
+It is pointless to keep fighting when you know you can't win.
+The window's children were a great consolation to her.
+This new plastic is very versatile.
+People should be more discreet when criticizing other people.
+Research shows that stress affects the neural system.
+The clock had an intricate mechanism.
+The questionnaire attracted over 1,000 respondents.
+Solar panels are used to harness the sun's energy.
+It is dangerous to invest in stocks under volatile political situation.
+I have no intention of accepting such a proposal.
+Daesh is responsible for genocide against groups in areas under its control.
+"You in?" - "Always"
+During the Stone Age flint was used to make tools.
+The United Nations imposed sanctions against South Africa in 1977.
+Pharmaceutical research requires both money and time.
+The museum's curators were all specialists in art.
+The students were unable to answer without recourse to dictionaries.
+Visibility became extremely low in the fog.
+Australia is well-known for its abundance of iron ore.
+The policy was designed to promote social cohesion.
+A sizable majority voted in favor of the motion.
+Tuition fees at private universities are usually very high.
+The pain from arthritis worsened as the patient grew older.
+Our upbringing affects the way we view our world.
+To be frank with you, I'm not interested in your business.
+Do you know anywhere I can blow up my bicycle tire?
+Our car broke down and we had to push it off the road.
+She's just broken up with her boyfriend.
+We decided to tie the knot after 3 years of going out with each other.
+John and Mary have broken up.
+John ditched Mary.
+The U.S. economy has been resilient in the face of shocks.
+I think there's much more to you than meets the eye.
+There was more to that suitcase than meet the eye.
+Hold on, I'll check in my diary.
+You seem a little tense.
+I'm just gonna give you a little personal space.
+Two loads of cloth were dispatched to the factory on 12th December.
+Hold on tight and don't let go.
+I need to go back over the presentation to get it right.
+Stacy backed up of the competition at the last minute.
+The building fire set back the development several months.
+During the meeting, Judy came back to her earlier point.
+Let's back up for a minute.
+With the city back in Syrian hands, a restoration team is ready to begin rebuilding.
+Over the last 10 months, ISIS has looted graves, plundered antiquities, and dynamited shrines and temples.
+You're a legend! Folks wonder why you left.
+I'll make a deal with you - you wash the car and I'll let you use it tonight.
+Never let them see that they get to you.
+It's no wonder that she needed to get help from a fox.
+Traffic congestion is a major issue in big cities.
+Many factory workers were bored by their repetitive jobs.
+Metal is more brittle when it is cold.
+The stars were visible through a rift in the clouds.
+There was a tall fence surrounding the perimeter of the prison ground.
+Flying fish can remain airborne for over 40 seconds.
+The doctor injected the husband's sperm into the wife's egg.
+The soldiers fired a barrage of shots at their enemies.
+It is ludicrous to take the examination without any preparation.
+Bear in mind that most jobs have their mundane aspects.
+Sales increased against the backdrop of an economic recovery.
+The police retrieved a weapon from the pond.
+The current market conditions are transient and will change soon.
+The actual building was different from what the architect envisaged.
+The process of language acquisition is a continuum.
+Don't worry. It's nothing serious.
+He's trying to scrape together enough money to buy a computer.
+My brother joined the local Boy Scout troop.
+I found paw print in the kitchen.
+Medieval knights took an oath to loyalty to their lord.
+Dangerous dogs should be muzzled.
+The water will go up to the rim of the bath the you get in.
+There was nothing sneaky about this.
+Make sure you give me the keys back when you've finished.
+The president and his entourage took a brief walk throughout the rain-soaked streets of Havana's old Town Sunday night; a fitting kick off to the historic state visit.
+"It's time for you to learn what you can do." - "But I'm just ordinary."
+The radical philosopher was accused of using a perverse logic.
+After the floods, a residue of mud lay in the streets.
+The great earthquakes caused an exodus of people from the area.
+Wedge-shaped letters are among the earliest forms of writing.
+The caretaker's salary was a meager £100 per week.
+The winter began with a bout with freezing weather.
+The band's music fuses blues with rock.
+Studying abroad entails enduring a bit of culture shock.
+The research continued at a leisurely pace.
+The company's computer systems were not fully operative.
+The monks began to sing an early morning chant.
+Be careful not to put too much yeast in when you bake bread.
+Cosmic noise refers to radio waves from outer space.
+There was a discrepancy between the suspect's and victim's accounts.
+Queen Victoria was also the Empress of India.
+His athletic feats were truly remarkable.
+The comedian's racial jokes aroused distaste in the audience.
+I can't believe this. It's too good to be true.
+I never get to do anything this important.
+Oh, I'm more of a glorified secretary.
+How dare you say such a thing.
+We're lost - We'll have to turn back.
+So, Apple's designers came up with a revolutionary touch technology.
+We need to find out what these newcomers' intentions are.
+New York is very hot and humid in the summer.
+Cod is the traditional choice for fish and chips.
+The ultrasound scan showed the baby in the womb.
+The huge dictionary was hailed as a monumental achievement.
+The company recruited many employees of high caliber.
+The gardener set the pile of dry leaves alight.
+The media was relentless in criticizing the prime minister.
+A mole raised its head from behind the mound.
+The player showed off his lightning fast reflexes.
+Food shortage were a major catalyst in the revolution.
+The museum had many priceless scrolls from antiquity.
+The parcel was delivered quickly by courier.
+Smoked herring with lemon juice is an appetizing French starter.
+The student reverted to her bad old habits.
+The word "home" has a special resonance in English.
+The vice-president acted as a proxy for his chief.
+The fine porcelain mugs shattered when they hit the floor.
+Many part-time jobs are precarious.
+I'm confident of their success.
+Do you have any thoughts about what we should do?
+Critics say Myanmar will continue to be tainted by allegation of cronyism and corruption.
+You know how word travels in this town.
+The businessman was a benevolent man, donating millions of pounds to charity.
+Ingenuity is key to the development of new technology.
+The actor has a low and vibrant voice.
+Most people enjoy the aroma of fresh coffee.
+The enormous earthquake caused havoc across the area.
+Many middle-aged workers feel insecure about their pension.
+The politician's family was of good pedigree.
+He tried hard to emulate his father's success.
+The rabbits escaped into their burrow.
+Freshwater dolphins are nearly extinct.
+The canals were mainly used by barges.
+No software may be duplicated without permission from the author.
+The atlas encompassed maps of most countries.
+The carpenter used a strong adhesive to fix the chair.
+The musical was a phenomenal hit.
+Have you met Jack's new missus?
+He's in no rush to get home to the missus.
+He went off the rails in his first year at university.
+I get a kick out of his sense of humor.
+A message with signs of misogyny appeared on his Facebook page before the crime.
+I'm actually white collar crime.
+The global spread of English threatens many vernacular languages.
+Somebody was moving behind the opaque window.
+Beacons were lit to celebrate the arrival of peace.
+They ate at a chic little restaurant.
+Just before dawn, the enemy onslaught began.
+Some perennial plants live for many years.
+The child refused to abide by the rules.
+The man's job was to oversee the factory workers.
+This tree provides a high-quality resin.
+Brass is an alloy of copper and zinc.
+The advertisement was little more than hype.
+The board members have disparate views on how to handle the problem.
+The elderly woman's health began to degenerate rapidly after the operation.
+The report cited horrific atrocities committed by violent radicals in Africa.
+You're not really my cup of tea.
+Can I take a look at your hand? Are you hurt?
+Security personnel need to be more vigilant in checking bags and packages.
+The horse had to spend several months in quarantine when it reached Britain.
+In 1991, the British government made it mandatory to wear rear seatbelts Britain.
+5000 people held an anti-nuclear rally.
+The text is marred by careless errors.
+It would be irresponsible to ignore these warning.
+With all due respect, Sir, I cannot agree with your last statement.
+His wife admired his uncompromising attitude.
+The walls were painted a drab brown.
+Perhaps he was a fish in a previous incarnation.
+The lawyer invoked a little known law.
+The other boys admired his prowess at rugby.
+Some birds can make tools by nipping and cutting.
+He felt deeply ambivalent towards his father.
+The camp was surrounded by barbed wire.
+Italics are often used to denote foreign word.
+The campus has many amenities.
+This lemon juice should be diluted with water.
+She wore a flimsy dress of silk.
+Many readers liked his idiosyncratic style.
+She pored over the old newspapers looking for the article.
+Courtship rituals vary according to cultural norms.
+His high marks bolstered his confidence.
+How far the president will be able to translate his campaign rhetoric into action remains to be seen.
+Somebody got the better of us.
+The flower were drooping in the heat.
+"I like Tom. He is smart and handsome." - "Speak of devil, here comes Tom."
+That time, I had arrived home right on time.
+I'll be darned.
+I'm filled with self-doubt.
+The war raged on, unchecked by the UN's efforts to stop it.
+What the dickens are you doing with that paint?
+He doesn't drink alcohol on account of his poor health.
+People in the church started speaking in tongues.
+What's that horrible smell?
+Recently, I haven't been playing basketball.
+He's lagging behind a bit - I think we'd better wait for him to catch up with us.
+At the moment our technology is more advanced, but other countries are catching up with us.
+Sorry, I can't put you through to the boss now, he will call you back.
+I'm going to make him an offer he can't refuse.
+Diligent students tend to achieve academic success and the converse is also true.
+There has been a backlash against liberalism in the country recently.
+He belonged to a nomadic tribe of herdsmen.
+She suffered from swollen glands in her neck.
+My stay at the hotel was a very pleasurable experience.
+The handsome stranger intrigued her.
+The country's unemployment rate has reached an astronomical level.
+The runners flexed their legs before the race.
+The physicist could not verify his claims.
+There was a small flaw in the lens of the camera.
+Certain diseases have been eradicated by science.
+They were wealthy Indians from an upper caste.
+His argument seemed rather tenuous.
+Harrison remains in the hospital where the medical staff monitors him for a possible rejection of the new issue, which is common after transplant surgeries.
+This president is going to have to deliver, and we're going to hold his feet to the fire until he does.
+The box contained an assortment of cakes.
+In the UK, buns are often eaten at Eastern.
+Chemicals were used to disperse the oil.
+Freud explored the depths of the human psyche.
+They began the arduous task of cleaning up.
+The detectives tried to elicit a confession from the man.
+On a whim, she entered the museum.
+In its heyday, the British Empire spanned approximately 11 million square miles.
+Firefighters evacuated the occupants of the flats.
+Their spending on rent was disproportionately large.
+A colossal statue of the leader was put up.
+People have many erroneous belief about science.
+The dictionary ushered in a new age of technology.
+The weather forecast says that the weather will be murky.
+The effects of the medicine were instantaneous.
+They announced a project to reclaim land from the sea.
+The teacher showed some footage from an old news film.
+Small low-cost airline have concerned the market in cheap flights.
+I'll buzz you when it's done.
+Older cars will begin to rust.
+It would take a miracle to get this rust bucket going.
+We kinda got a situation at the lab... Oh! It just got worse.
+Did you cross her name off the guest list?
+Cheetahs are mainly found in Africa.
+After his speech he faced a hail of questions from reporters.
+The vote rescinds zoning decisions made earlier in the decade.
+Incoming flights are being delayed because of weather.
+We gotta get to the ZPD. Cut through the Natural History Museum!
+Alcohol can cause harm to fetus.
+He deduced the height of the intruder from the footprint.
+They used infrared light to see in the dark.
+They had an uncanny ability ability to guess people's thoughts.
+The old clock contained a large pendulum.
