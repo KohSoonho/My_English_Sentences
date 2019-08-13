@@ -18,12 +18,10 @@ ui <- fluidPage(
    
    br(), 
    
-   mainPanel(a("Cambridge Dictionary", 
+   mainPanel(a(imageOutput("camb", height = 60), 
                href = "https://dictionary.cambridge.org")), 
-   
-   mainPanel(a("Google", 
+   mainPanel(a(imageOutput("goo", height = 60), 
                href = "https://www.google.co.jp"))
-   
    )
 
 # Define server logic required to show English sentences
@@ -46,6 +44,16 @@ server <- function(input, output) {
   output$count <- renderText({
     input$action
   })
+  
+  output$camb <- renderImage({
+    list(src = "cambridge.png", 
+         height = 50)
+  }, deleteFile = FALSE)
+  
+  output$goo <- renderImage({
+    list(src = "google.png", 
+         height = 50)
+  }, deleteFile = FALSE)
 
 }
 
