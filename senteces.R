@@ -12,3 +12,4 @@ where_wrong_sentence <- function(word_list) {
 # making wrong word list
 # wrong_word <- list("We came out of a very fashion-conscious scene.")
 
+
